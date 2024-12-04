@@ -1,5 +1,3 @@
-# Unity week 2: Formal elements
-
 # Starships War
 
 Starships War is an action-packed space shooter game where players navigate their starship through various levels, battling enemies and overcoming obstacles to achieve high scores.
@@ -62,3 +60,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For more information and updates, visit my [GitHub repository](https://github.com/halelitzhaki/starships-war).
 
+## Acknowledgments
+
+This project was developed as part of an academic assignment to practice advanced Unity2D and C#.

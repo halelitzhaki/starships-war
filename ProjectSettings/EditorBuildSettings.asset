@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/4-levels/Black Hole level.unity
+    guid: bc61d35372f3846bd991f8f6c9a11f94
+  - enabled: 0
     path: Assets/Scenes/4-levels/level-1.unity
     guid: 7b9c106c66bcfde438f75b0322428201
   - enabled: 1
@@ -14,13 +17,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/4-levels/level-win.unity
     guid: efbda32608f8719439866184c08cd90d
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/2-prefabs/b-instantiate.unity
     guid: 2e934fb2f71798c4caddce2e03fed046
   - enabled: 0
     path: Assets/Scenes/3-triggers/d-shield.unity
     guid: a031f83008145b54f8dc3a8abfc50099
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/4-levels/level-2.unity
     guid: d3d37355d15a0f449a03a97787a0fd28
   m_configObjects: {}

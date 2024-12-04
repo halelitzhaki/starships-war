@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      blackhole_sprite_0: -3988485742346343876
+      blackhole_sprite_1: 2469168767762308724
+      blackhole_sprite_2: 1551201478429517127
+      blackhole_sprite_3: 1508845632291664796
+      blackhole_sprite_4: -1744101648320960059
+      blackhole_sprite_5: -1246818864840931648
+      blackhole_sprite_6: 6853498376994143714
+      blackhole_sprite_7: -8791176096978055190
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
